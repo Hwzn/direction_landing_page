@@ -147,7 +147,7 @@ a.main-button-slider {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #fba70b;
+  background-color: rgb(23,69,122);
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -219,7 +219,7 @@ button.main-button:hover {
 
 .center-heading h2 em {
   font-style: normal; 
-  color: #17457a;
+  color: rgb(23,69,122);
 }
 
 .center-heading p {
@@ -247,7 +247,7 @@ header
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #17457a !important;
+  color: rgb(23,69,122) !important;
 }
 
 .background-header .main-nav .nav li:hover a {
@@ -278,7 +278,7 @@ header
 
 .header-area .main-nav .logo {
   line-height: 80px;
-  color: #17457a;
+  color: rgb(23,69,122);
   font-size: 28px;
   font-weight: 700;
   text-transform: uppercase;
@@ -289,7 +289,7 @@ header
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   width: auto;
-  height: 80px;
+  height: 60px;
 text-align: left;
 }
 .header-area .main-nav .logo img{
@@ -404,7 +404,7 @@ text-align: left;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #fba70b;
+  background: rgb(23,69,122);
 }
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
@@ -635,7 +635,7 @@ text-align: left;
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #fba70b!important;
+    color: rgb(23,69,122)!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -709,7 +709,7 @@ welcome
 
 .welcome-area .header-text h1 em {
   font-style: normal;
-  color: #17457a;
+  color: rgb(23,69,122);
 }
 
 .welcome-area .header-text p {
@@ -871,7 +871,7 @@ promotion
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #223c5a;
+  background-color: rgb(23,69,122);
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -1208,7 +1208,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #3651a3 0%, #17457a 100%);
+  background-image: linear-gradient(145deg, #3651a3 0%, rgb(23,69,122) 100%);
   left: 0;
   right: 0;
   top: 0;
