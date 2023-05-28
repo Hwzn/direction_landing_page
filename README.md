@@ -21,3 +21,11 @@
 # Home Page
 
 ![Home Page](assets/images/screen_one.png)
+
+
+-------------------------------------------------------------
+
+# Server login data
+- https://34.78.94.46:2083/
+- UserName: elmadd
+- PassWord: f+$z(!=WeevZ
