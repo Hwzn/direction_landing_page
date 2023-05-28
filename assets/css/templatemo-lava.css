@@ -118,12 +118,12 @@ body {
 }
 
 ::selection {
-  background: #f1556a;
+  background: #223b59;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #f1556a;
+  background: #223b59;
   color: #fff;
 }
 
@@ -159,7 +159,7 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #f1556a;
+  background-color: #223b59;
 }
 
 a.main-button {
@@ -178,7 +178,7 @@ a.main-button {
 }
 
 a.main-button:hover {
-  background-color: #f1556a;
+  background-color: #223b59;
 }
 
 button.main-button {
@@ -200,7 +200,7 @@ button.main-button {
 }
 
 button.main-button:hover {
-  background-color: #f1556a;
+  background-color: #223b59;
 }
 
 
